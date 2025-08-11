@@ -102,19 +102,19 @@ and clicking to the targeted muscle group and part.<br><br>
 
 * what exercises you want in your workout (the order added is the order they will be done in the workout)
 * number of sets per exercise (the last set will always be the set in which you use the next heavier weight)
-* rest time in between sets (in the format of 00:00)<br><br>
+* rest time in between sets (in the format of 00:00)<br>
 
-Clicking "Start" will start the workout. Information will always be displayed on the screen such as:<br><br>
+Clicking "Start" will start the workout. Information will always be displayed on the screen such as:<br>
 
 * the exercise you are currently doing
 * the number of sets you have left for that exercise
 * the weight you should be doing in the current set
-* the number of reps you should aim for in the current set<br><br>
+* the number of reps you should aim for in the current set<br>
 
 After completing your set click on "Set Completed" and, if not having just completed the last set
 of the exercise, the timer for your rest period before the next set will start. If you have completed
 the last set of an exercise, you will be taken to a form that asks for info regarding your weight and/or
-rep progression of the exercise. Some tips are:<br><br>
+rep progression of the exercise. Some tips are:<br>
 
 * if you have not progressed in the last set, leave both inputs blank
 * if you have progressed in the last set in reps but not weight, fill in the reps
@@ -122,9 +122,9 @@ rep progression of the exercise. Some tips are:<br><br>
 * if you were able to get to 10 reps on the last set (or any other rep goal),
   fill in the weight input and just leave the rep input blank (will reset to 0 for goal reps
   since a new weight for doing the exercise has been reached, and that new weight for 8-10 reps will start to be used next time you do the exercise in the future)
-* while uncommon, it is completely acceptable to fill in both inputs<br><br>
+* while uncommon, it is completely acceptable to fill in both inputs<br>
 
-After filling out this form (if necessary), the next exercise will begin (if any).<br><br>
+After filling out this form (if necessary), the next exercise will begin (if any).<br>
 
 **4.** After completing all the exercises and after the final rest period, a screen will pop up
 saying that you finished the workout. Click on the button that says "Home Page," to go
