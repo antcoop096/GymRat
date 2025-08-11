@@ -61,7 +61,7 @@ each side and I can do 5 reps with 32.5lbs each side (the next heavier weight), 
 * set 3: 32.5lbs, trying to get over 5 reps
 
 After I can get to (usually) 10 reps using the heavier weight in the third set,
-that heavier weight becomes the weight I use for sets 1 and 2 for 8-10 reps next time I do the exercise in a future workout (assuming the exercise isn't done again later in the current workout).
+that heavier weight becomes the weight I use for sets 1 and 2 for 8-10 reps (for next time I do the exercise in a future workout, assuming the exercise isn't done again later in the current workout).
 Then the next possible heavier weight above *that* would become the new weight for the third set
 (in the example above, the next weight above 32.5 lbs would be 35 lbs).
 
@@ -121,7 +121,7 @@ rep progression of the exercise. Some tips are:<br>
   input and just leave the weight input blank
 * if you were able to get to 10 reps on the last set (or any other rep goal),
   fill in the weight input and just leave the rep input blank (will reset to 0 for goal reps
-  since a new weight for doing the exercise has been reached, and that new weight for 8-10 reps will start to be used next time you do the exercise in the future)
+  since a new weight for doing the exercise for 8-10 reps has been reached, and that new weight for 8-10 reps will start to be used next time you do the exercise in the future)
 * while uncommon, it is completely acceptable to fill in both inputs<br>
 
 After filling out this form (if necessary), the next exercise will begin (if any).<br>
