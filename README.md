@@ -117,7 +117,7 @@ After completing your set click on "Set Completed" and, if not having just compl
   input and just leave the weight input blank
 * if you were able to get to 10 reps on the last set (or any other rep goal),
   fill in the weight input and just leave the rep input blank (will reset to 0 for goal reps
-  since a new weight for doing the exercise has been reached, and that new weight will start to be used next time you do the exercise)
+  since a new weight for doing the exercise has been reached, and that new weight for 8-10 reps will start to be used next time you do the exercise in the future)
 * while uncommon, it is completely acceptable to fill in both inputs<br><br>
 After filling out this form (if necessary), the next exercise will begin (if any).<br><br>
 
