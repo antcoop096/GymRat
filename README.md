@@ -72,7 +72,7 @@ a->b(c), where:
 * b = the next possible heavier weight above 'a'
 * c = the amount of reps I'm able to do the exercise
   with 'b' lbs, and is thus the rep goal to beat<br><br>
-  I would use this notation as a reference to follow during my workout so I know what weights to use
+I would use this notation as a reference to follow during my workout so I know what weights to use
   and how many reps to do for every exercise I do.
 
 ## How To Use The App (Tour Guide)
