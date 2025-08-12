@@ -26,14 +26,13 @@
 
     <TextView
         android:id="@+id/exerciseInfo"
-        android:layout_width="260dp"
-        android:layout_height="236dp"
-        android:layout_marginBottom="192dp"
+        android:layout_width="255dp"
+        android:layout_height="306dp"
+        android:layout_marginBottom="160dp"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
